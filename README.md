@@ -1,4 +1,4 @@
-# petaverse
+# Totechs Intranet Mobile
 
 A new Flutter application.
 
